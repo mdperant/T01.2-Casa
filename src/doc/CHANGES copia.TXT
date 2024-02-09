@@ -1,0 +1,21 @@
+Responde a las siguientes preguntas:
+
+¿Qué operaciones puedes hacer con la casa?
+
+Se puede dibujar la casa, dibujar en B/N y a color.
+
+¿Cuántos atributos tiene? ¿De qué tipo son los atributos?
+
+4 propiedades básicas, dos de tipo CUADRADO, uno de tipo TRIANGULO y otro de tipo CIRCULO
+
+
+¿Qué hace el método constructor CasaImpl? ¿Cómo lo hace?
+
+El método constructor crea la pared y la ventana implementando un cuadrado, para el tejado usa el triangulo y para el sol el circulo.
+implementa llamando a 3 clases: CuadradoImpl, TrianguloImpl y Circulo Impl
+
+¿Qué hace en el método dibujar? ¿Cómo lo hace?
+pared a negro, ventana a blanco, tejado a negro y sol a negro.
+Cambiar el dibujo de la casa a blanco y negro. --> llama a métodos de las claes CuadradoImpl, TrianguloImpl y Circulo Impl
+¿Qué hace el método setBlancoYNegro? ¿Cómo lo hace?
+¿Qué hace el método setColor? ¿Cómo lo hace?

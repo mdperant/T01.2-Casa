@@ -23,5 +23,17 @@ public interface Casa {
 	 * Cambia el dibujo de la casa a color
 	 */
 	void setColor();
+	
+	
+	void setAtardecer();
+	
+	void setAtardecer2();
+	
 
 }
+
+
+
+
+
+
